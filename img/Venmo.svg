@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1333.3333"
+   height="1333.3333"
+   viewBox="0 0 1333.3333 1333.3333"
+   sodipodi:docname="Venmo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath20">
+      <path
+         d="M 0,1000 H 1000 V 0 H 0 Z"
+         id="path18" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="0.33900003"
+     inkscape:cx="563.42177"
+     inkscape:cy="407.07961"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page8"
+       width="1333.3333"
+       height="1333.3333"
+       inkscape:export-filename="venmo.png"
+       inkscape:export-xdpi="21.6"
+       inkscape:export-ydpi="21.6" />
+  </sodipodi:namedview>
+  <g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1333.3333)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="Page 2"
+       transform="matrix(0.75000002,0,0,-0.75000002,0,1000)">
+      <rect
+         style="display:inline;fill:#008cff;fill-opacity:1;stroke-width:5.57858;stroke-linecap:round"
+         id="rect305"
+         width="999.99994"
+         height="999.99994"
+         x="0"
+         y="-1000"
+         transform="matrix(1.3333333,0,0,1.3333333,0,1333.3333)"
+         ry="131.00711"
+         inkscape:export-filename="rect305.png"
+         inkscape:export-xdpi="32"
+         inkscape:export-ydpi="32"
+         inkscape:label="  " />
+    </g>
+    <path
+       d="M 0,0 H 1000 V 1000 H 0 Z"
+       style="display:none;fill:#008cff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path12" />
+    <g
+       id="g14"
+       style="display:inline">
+      <g
+         id="g16"
+         clip-path="url(#clipPath20)">
+        <g
+           id="g22"
+           transform="translate(734.5,769.2441)">
+          <path
+             d="M 0,0 C 19.442,-31.999 28.208,-64.957 28.208,-106.589 28.207,-239.377 -85.551,-411.878 -177.878,-533.007 h -210.88 l -84.571,503.934 184.649,17.469 44.713,-358.582 c 41.781,67.827 93.341,174.416 93.342,247.087 0,39.778 -6.839,66.872 -17.525,89.181 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

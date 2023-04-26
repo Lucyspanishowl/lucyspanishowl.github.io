@@ -1,0 +1,148 @@
+:root {
+  --bg: lightblue;
+  --fg: white;
+  --hi: #ff7dbf;
+  --line: beige;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font: inherit;
+}
+
+/** border: 1px solid #232323; **/
+body {
+	line-height: 1.6;
+  	color: var(--fg);
+  	background: var(--bg);
+  	text-rendering: optimizeLegibility;
+  	overflow-x: hidden;
+  	font-family:'Patrick Hand',cursive ;
+	text-shadow: 1px 1px 2px var(--hi);
+}
+
+#logo_img {
+	width:32px;
+  	object-position: 50% 50%;
+	margin:auto;
+	padding-top: 2rem;
+	display: block;
+}
+
+.main {
+	display:flex;
+}
+
+ul {
+	list-style:none;
+	width:80%;
+	font-size: 2.25rem;
+	font-weight:bold;
+	padding-left:64px;
+
+	display:flex;
+}
+li {
+	padding: .25rem;
+	padding-right:1rem;
+}
+.text {
+	width: 80%;
+	margin: auto;
+	font-weight:bold;
+	font-size: 2rem;
+}
+h2 {
+	font-size: 2.5rem;
+	text-align: center;
+	padding: .5rem;
+}
+span {
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-decoration-color: var(--hi);
+}
+form {
+	width: 50%;
+	margin:auto;
+}
+input {
+	height: 4rem;
+}
+.feedback-input {
+  font-weight:500;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  line-height: 4rem;
+  border:3px solid var(--line);
+  transition: all 0.3s;
+  padding: 13px;
+  margin-bottom: 15px;
+  width:100%;
+  box-sizing: border-box;
+  outline:0;
+}
+.feedback-input:focus {
+border:2px solid var(--line);
+}
+textarea {
+  height: 50vh;
+  line-height: 150%;
+  resize:vertical;
+}
+[type="submit"] {
+  width: 100%;
+  background:var(--fg);
+  border-radius:5px;
+  border:0;
+  cursor:pointer;
+  color:var(--bg);
+  font-size:2rem;
+  padding-top:10px;
+  padding-bottom:10px;
+  transition: all 0.3s;
+  margin-top:-4px;
+  font-weight:700;
+}
+[type="submit"]:hover {
+	background:var(--line);
+}
+
+.logos {
+	width:80%;
+	margin: auto;
+	padding: 1rem;
+	justify-content: center;
+	align-items: center;
+	display:flex;
+}
+.logo {
+	width: 64px;
+	padding: 1rem;
+}
+img{
+	width:64px;
+	height:64px;
+	object-fit: contain;
+}
+footer {
+	width: 80%;
+	margin: auto;
+}
+.copyright {
+	font-size: 1rem;
+	text-align: center;
+	padding: 1rem;
+}
+
+@media only screen and (max-width: 900px) {
+	.text{
+		width:98%;
+		font-size: 1.5rem;
+}
+	form {
+		width: 98%;
+		margin: auto;
+	}
+}
