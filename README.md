@@ -7,4 +7,5 @@
 
 * Lucy owl images are CC0.
 
+* Image on index page by [James Lee]("https://unsplash.com/@picsbyjameslee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
 * For the logos/branding, respect their respective copyright holder's terms.
