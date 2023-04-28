@@ -1,7 +1,6 @@
 :root {
-  --bg: lightblue;
-  --fg: white;
-  --hi: black;
+  --fg: #F0F3F3;
+  --bg: #646D51;
   --line: beige;
   --pink: #ff7dbf;
 }
@@ -99,7 +98,7 @@ input {
   outline:0;
 }
 .feedback-input:focus {
-border:2px solid var(--line);
+border:2px solid var(--pink);
 }
 textarea {
   height: 50vh;
